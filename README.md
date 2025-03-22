@@ -1,8 +1,8 @@
 # 💫 About Me:
-Hi there, 👋 I'm Vikash Kumar Mehta<br> <br>i'm passionate BCA student ai Meerut Institute of technology, affiliated with Chaudhary Charan Singh Univercity.<br>I have a strong interest in software development, problem solving, and web technologies.
+Hi there, 👋 I'm Vikash Kumar Mehta, <br> <br>i'm passionate BCA student ai Meerut Institute of technology, affiliated with Chaudhary Charan Singh Univercity.<br>I have a strong interest in software development, problem solving, and web technologies.
 
 # 🎯Learnings
-Currently, I'm exploring Python Web Development and working on various projects to strengthen my skill. I believe in learning by building and continuously improving.
+Currently, I'm exploring Python Web Development and working on various projects to strengthen my skill.<br> I believe in learning by building and continuously improving.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/vikashmehtag1) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mehta_g1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mehta-g1) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/VikashR81941221) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vikash.kumarmehta.bca.2023@mitmeerut.ac.in) 
